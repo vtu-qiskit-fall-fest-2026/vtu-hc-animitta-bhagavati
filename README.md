@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Animitta Bhagavati** · Team ID `VTU-QFF-HC-0149` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Animitta Bhagavati)
+[⬆ Back to Top](#animitta-bhagavati)
 
 </div>
